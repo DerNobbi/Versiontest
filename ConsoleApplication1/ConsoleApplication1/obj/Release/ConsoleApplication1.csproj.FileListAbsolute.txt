@@ -1,0 +1,6 @@
+C:\NoScan\GIT\Versiontest\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+C:\NoScan\GIT\Versiontest\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\NoScan\GIT\Versiontest\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\NoScan\GIT\Versiontest\ConsoleApplication1\ConsoleApplication1\obj\Release\GitVersionInformation.g.cs
+C:\NoScan\GIT\Versiontest\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\NoScan\GIT\Versiontest\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

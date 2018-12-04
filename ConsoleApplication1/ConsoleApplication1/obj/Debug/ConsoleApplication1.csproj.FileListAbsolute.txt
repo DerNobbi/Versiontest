@@ -1,0 +1,7 @@
+C:\NoScan\GIT\Versiontest\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\NoScan\GIT\Versiontest\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\NoScan\GIT\Versiontest\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\NoScan\GIT\Versiontest\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\NoScan\GIT\Versiontest\ConsoleApplication1\ConsoleApplication1\obj\Debug\GitVersionInformation.g.cs
+C:\NoScan\GIT\Versiontest\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\NoScan\GIT\Versiontest\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
